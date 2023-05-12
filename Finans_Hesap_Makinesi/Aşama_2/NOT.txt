@@ -1,0 +1,3 @@
+Temel olarak konsol üzerinden yaptığım hesapları görselleştirme kararı aldım,
+bunun üzerine araştırmalara başladım ve ufak bir arayüz yazdım ilk etapda temel
+işleri hesaplar duruma getirdim ve sorunsuz bir şekilde çalışıyor.
