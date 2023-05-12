@@ -1,0 +1,8 @@
+-- GitHub Sayfama Hoşgeldiniz!
+
+Bu sayfada aklıma gelmiş olan ufak fikirleri Python programı aracılıyla 
+oluşturmaya ve geliştirmeye çalışıyorum. Bu tarz girşimlerim sayesinde 
+kendimi geliştirme fırsatı yakalamış oluyorum. Sizlerde projelerimde eklememi
+istediğiniz bir fikir var ise Linkedin üzerinden iletişime geçebilirsiniz.
+
+Linkedin: https://www.linkedin.com/in/arslanalper/
