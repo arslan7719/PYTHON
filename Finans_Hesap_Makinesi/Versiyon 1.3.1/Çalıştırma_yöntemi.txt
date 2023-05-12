@@ -1,0 +1,4 @@
+-Programı Çalıştırmak için masaüstünde bir dosya açın.
+-Python uzantılı kodları oluşturduğunuz dosyanın içerisene kaydedin.
+-Png uzantılı resimide dosyanın içerisine kaydedin
+-Kulandığınız editor üzerinden kodların kayıtlı olduğu dosyayı açın ve çalıştırın.
